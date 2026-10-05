@@ -1,5 +1,3 @@
-<!-- The README of eddime/GemShell. The release workflow fills in 1.1.1 and
-     puts it there with every release; edit it here, not there. -->
 <div align="center">
 
 <picture>
@@ -39,9 +37,9 @@ with **Steamworks** in plain JavaScript and **one-click deploy** to Steam, itch.
 
 | | |
 |:---:|---|
-| **01** | **Open the folder** — the one with your `index.html` in it. Nothing moves, nothing gets added to your project. |
-| **02** | **Tick the platforms** — name, icon, window, your Steam App ID. Everything else already has an answer. |
-| **03** | **Press build** — every platform at once, and one more press puts them on Steam, itch.io and GitHub. |
+| **01** | **Open the folder.** The one with your `index.html` in it. Nothing moves, nothing gets added to your project. |
+| **02** | **Tick the platforms.** Name, icon, window, your Steam App ID. Everything else already has an answer. |
+| **03** | **Press build.** Every platform at once, and one more press puts them on Steam, itch.io and GitHub. |
 
 <p align="center">
   <img src="assets/app.png" alt="The GemShell window: choosing Windows, macOS, Linux, iOS and Android" width="88%">
@@ -55,7 +53,7 @@ with **Steamworks** in plain JavaScript and **one-click deploy** to Steam, itch.
 <img src="assets/medal.jpg" width="100%" alt="A hexagonal achievement medal">
 
 ### Steamworks in one line of JavaScript
-137 Steamworks calls in 23 areas as one global `steam` object — achievements, stats, cloud saves, leaderboards, lobbies, P2P, the overlay, Workshop and more. No SDK to link, no C++, nothing to compile per platform.
+137 Steamworks calls in 23 areas as one global `steam` object: achievements, stats, cloud saves, leaderboards, lobbies, P2P, the overlay, Workshop and more. No SDK to link, no C++, nothing to compile per platform.
 
 </td>
 <td width="50%" valign="top">
@@ -78,7 +76,7 @@ Windows `.exe`, macOS `.app`, Linux, an Xcode project and an Android Studio proj
 <img src="assets/cartridge.jpg" width="100%" alt="A game cartridge rising in a trail of pixels">
 
 ### Set it up once. Ship with one click.
-Steam (depots, branches, the VDF written for you), itch.io (a channel per platform) and GitHub (a tagged release) — all in the same press.
+Steam (depots, branches, the VDF written for you), itch.io (a channel per platform) and GitHub (a tagged release), all in the same press.
 
 </td>
 </tr>
@@ -86,7 +84,7 @@ Steam (depots, branches, the VDF written for you), itch.io (a channel per platfo
 
 ## Free to try. One payment to ship.
 
-| | **Lite** — free | **Pro** — $29.95, yours for good |
+| | **Lite**: free | **Pro**: $29.95, yours for good |
 |---|:---:|:---:|
 | Windows, macOS, Linux | ✓ | ✓ |
 | GemShell API & asset encryption | ✓ | ✓ |
