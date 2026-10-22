@@ -14,10 +14,10 @@ with **Steamworks** in plain JavaScript and **one-click deploy** to Steam, itch.
 
 <br>
 
-[![Windows](https://img.shields.io/badge/Windows-Download-2563eb?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/eddime/GemShell/releases/download/v1.1.9/GemShell-1.1.9-windows-x86_64.msi)
-[![macOS Apple Silicon](https://img.shields.io/badge/macOS-Apple_Silicon-2563eb?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/eddime/GemShell/releases/download/v1.1.9/GemShell-1.1.9-macos-arm64.dmg)
-[![macOS Intel](https://img.shields.io/badge/macOS-Intel-2563eb?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/eddime/GemShell/releases/download/v1.1.9/GemShell-1.1.9-macos-x86_64.dmg)
-[![Linux](https://img.shields.io/badge/Linux-.deb_·_AppImage-2563eb?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/eddime/GemShell/releases/tag/v1.1.9)
+[![Windows](https://img.shields.io/badge/Windows-Download-2563eb?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/eddime/GemShell/releases/download/v1.1.10/GemShell-1.1.10-windows-x86_64.msi)
+[![macOS Apple Silicon](https://img.shields.io/badge/macOS-Apple_Silicon-2563eb?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/eddime/GemShell/releases/download/v1.1.10/GemShell-1.1.10-macos-arm64.dmg)
+[![macOS Intel](https://img.shields.io/badge/macOS-Intel-2563eb?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/eddime/GemShell/releases/download/v1.1.10/GemShell-1.1.10-macos-x86_64.dmg)
+[![Linux](https://img.shields.io/badge/Linux-.deb_·_AppImage-2563eb?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/eddime/GemShell/releases/tag/v1.1.10)
 
 [![Version](https://img.shields.io/github/v/release/eddime/GemShell?style=flat-square&label=version&color=4ade80)](https://github.com/eddime/GemShell/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/eddime/GemShell/total?style=flat-square&color=4ade80)](https://github.com/eddime/GemShell/releases)
@@ -99,15 +99,15 @@ Steam (depots, branches, the VDF written for you), itch.io (a channel per platfo
 
 ## Download
 
-Everything for **GemShell 1.1.9** is on the [release page](https://github.com/eddime/GemShell/releases/tag/v1.1.9):
+Everything for **GemShell 1.1.10** is on the [release page](https://github.com/eddime/GemShell/releases/tag/v1.1.10):
 
 | System | File |
 |---|---|
-| Windows 10 / 11 | [`GemShell-1.1.9-windows-x86_64.msi`](https://github.com/eddime/GemShell/releases/download/v1.1.9/GemShell-1.1.9-windows-x86_64.msi) |
-| macOS, Apple Silicon | [`GemShell-1.1.9-macos-arm64.dmg`](https://github.com/eddime/GemShell/releases/download/v1.1.9/GemShell-1.1.9-macos-arm64.dmg) |
-| macOS, Intel | [`GemShell-1.1.9-macos-x86_64.dmg`](https://github.com/eddime/GemShell/releases/download/v1.1.9/GemShell-1.1.9-macos-x86_64.dmg) |
-| Debian, Ubuntu | [`gemshell_1.1.9_amd64.deb`](https://github.com/eddime/GemShell/releases/download/v1.1.9/gemshell_1.1.9_amd64.deb) · [`arm64`](https://github.com/eddime/GemShell/releases/download/v1.1.9/gemshell_1.1.9_arm64.deb) |
-| Any Linux | [`AppImage x86_64`](https://github.com/eddime/GemShell/releases/download/v1.1.9/GemShell-1.1.9-linux-x86_64.AppImage) · [`arm64`](https://github.com/eddime/GemShell/releases/download/v1.1.9/GemShell-1.1.9-linux-arm64.AppImage) |
+| Windows 10 / 11 | [`GemShell-1.1.10-windows-x86_64.msi`](https://github.com/eddime/GemShell/releases/download/v1.1.10/GemShell-1.1.10-windows-x86_64.msi) |
+| macOS, Apple Silicon | [`GemShell-1.1.10-macos-arm64.dmg`](https://github.com/eddime/GemShell/releases/download/v1.1.10/GemShell-1.1.10-macos-arm64.dmg) |
+| macOS, Intel | [`GemShell-1.1.10-macos-x86_64.dmg`](https://github.com/eddime/GemShell/releases/download/v1.1.10/GemShell-1.1.10-macos-x86_64.dmg) |
+| Debian, Ubuntu | [`gemshell_1.1.10_amd64.deb`](https://github.com/eddime/GemShell/releases/download/v1.1.10/gemshell_1.1.10_amd64.deb) · [`arm64`](https://github.com/eddime/GemShell/releases/download/v1.1.10/gemshell_1.1.10_arm64.deb) |
+| Any Linux | [`AppImage x86_64`](https://github.com/eddime/GemShell/releases/download/v1.1.10/GemShell-1.1.10-linux-x86_64.AppImage) · [`arm64`](https://github.com/eddime/GemShell/releases/download/v1.1.10/GemShell-1.1.10-linux-arm64.AppImage) |
 
 GemShell updates itself once it is installed. The builds are not code-signed: on macOS, open the app the first time with right-click → **Open**.
 
